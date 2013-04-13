@@ -5,3 +5,5 @@ $git add readme.txt
 $git commit -m "edit on MBA"
 $git push origin master
 
+use ssh to clone
+$git clone git@github.com:tongcc8/testGitHub.git
