@@ -1,0 +1,7 @@
+$git clone git://github.com/tongcc8/testGitHub.git
+$git status
+$nano readme.txt
+$git add readme.txt
+$git commit -m "edit on MBA"
+$git push origin master
+
